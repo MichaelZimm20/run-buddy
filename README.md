@@ -25,4 +25,4 @@ http://lernantino.github.io/run-buddy/
 Made with ❤️ by Michael Zimmerman
 
 
-### &copy2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc
