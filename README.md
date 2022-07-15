@@ -1,4 +1,4 @@
-# run-buddy
+# Run-Buddy, Inc
 
 
 ## Purpose 
@@ -23,3 +23,6 @@ http://lernantino.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Michael Zimmerman
+
+
+### &copy2019 Run Buddy, Inc
