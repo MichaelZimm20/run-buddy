@@ -2,7 +2,7 @@
 
 
 ## Purpose 
-A website that offers fitness training services.
+A website that offers fitness training services, to users that would like to jump start their healthy lifestyle. Using HTML for the foundation and functionality and CSS for the styling.
 
 
 
